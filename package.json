@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/EnzoSz/Proyecto_curso_asincronismo_js/issues"
   },
-  "homepage": "https://github.com/EnzoSz/Proyecto_curso_asincronismo_js#readme"
+  "homepage": "https://github.com/EnzoSz/Proyecto_curso_asincronismo_js#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
 }
